@@ -122,5 +122,5 @@ def main_TD():
     #print data after learning is done
     for row in data:
         print(row)
-
+#main_MC()
 main_TD()
